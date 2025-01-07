@@ -51,6 +51,9 @@ For beginners, especially children, there is a drag-and-drop interface to build 
 Sleek and Intuitive Interface: 
 The app features a modern, clean design with a background video for enhanced user engagement.
 
+Memory Management:
+All the images you upload to sak query will be stored in uploads folder
+
 System Requirements :
 
 To use this web app, you will need a Google Gemini API access token. This free token can be obtained from Google Studio and must be placed in the api_key="Your token here" field in all Flask pages.
