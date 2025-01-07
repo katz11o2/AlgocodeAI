@@ -56,14 +56,16 @@ python app.py
 
 Authors
 
-Thiruvenkat
+Prof. Jeevitha Prabhakara  - Project Guide
+
+Student-Thiruvenkat
 
 Core development
 Documentation
 AI integration
 
 
-Wael Umar
+Student-Wael Umar
 
 Manual Testing
 
