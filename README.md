@@ -12,39 +12,61 @@ You could also ask the time complixety , memory , I/O of the algorithm or ask it
 It has a drag and drop blocks where children can build code in Javascript by draging and droping te blocks!
 It also has a ready to use code of common algorithms and in 3 language with a card interface
 
-Description:We have Developed a Gen AI agent capable of converting prompted algorithms into compiled code. 
-The tool should take user-defined algorithms and generate executable code in the desired programming language.
+Description:
+AlgoCodeAI is a web application powered by a Gen AI agent capable of converting user-provided algorithms into executable code. With a user-friendly interface, this tool translates algorithms described in natural language into various programming languages. It also supports voice-to-text input, image-based queries, and offers features for code generation, error checking, and performance analysis.
 
-We have added a simple user interface with background video 
+The application aims to streamline the algorithm-to-code process, enabling users to generate code effortlessly, analyze performance metrics (like time complexity and memory usage), and learn programming through interactive, drag-and-drop blocks.
 
 
 
 Key Features:
-• Input interface for algorithm description
-The input supports text and all image formats whereupon you can ask question based on the image you have!It support all programming languages in the world
 
-• Translation of algorithms into multiple programming languages
-The algorithm can be translated in any programming language
+Natural Language Algorithm Input:
+Enter your algorithm in plain text and have it converted into code.
 
-• Code compilation and error checking
-There is section for compiling and checking for error of the generated code to easily analyze if the geenrated code is correct or not
+Voice-to-Text: 
+The web app supports voice input, activated by saying the word "laptop." This allows users to describe the algorithm verbally.
 
-• Output of ready-to-use code snippets
-You can copy the code and use it in your projects
+Image-Based Query:
+Upload images (like flowcharts or diagrams) and ask questions related to the algorithm depicted in the image.
 
-Requirements:
-Google gemini Access token ( Free to use can be taken from google studio) and be placed in (api_key="Your token here") in all flask pages
+Multi-Language Support: 
+Translate your algorithm into any programming language such as Python, JavaScript, C++, Java, etc.
 
-Languages used:
-Python
-Html
-Css
-Javascript
+Instant Code Generation: 
+The system generates executable code within 4-10 seconds.
+
+Code Compilation and Error Checking:
+The web app compiles the generated code, checks for errors, and provides insights into its correctness.
+
+Ready-to-Use Code Snippets: 
+Copy and integrate the generated code into your projects directly from the app.
+
+Performance Metrics: 
+Query and analyze time complexity, memory consumption, and I/O operations of your algorithm.
+
+Drag-and-Drop Blocks for Beginners: 
+For beginners, especially children, there is a drag-and-drop interface to build code using blocks in JavaScript.
+
+Sleek and Intuitive Interface: 
+The app features a modern, clean design with a background video for enhanced user engagement.
+
+System Requirements :
+
+To use this web app, you will need a Google Gemini API access token. This free token can be obtained from Google Studio and must be placed in the api_key="Your token here" field in all Flask pages.
+
+
+Technologies Used :
+
+Backend: Python
+Frontend: HTML, CSS, JavaScript
+AI Integration: Google Gemini API
 
 Steps to run this webapp:
+
 Unzip the folder and start using it
 
-Install dependencies
+Install dependencies:
 
 Run these in seperate terminals:
 python main.py
@@ -54,7 +76,7 @@ python professionals.py
 python app.py
 
 
-Authors
+Authors:
 
 Prof. Jeevitha Prabhakara  - Project Guide
 
