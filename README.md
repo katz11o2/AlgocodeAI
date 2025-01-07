@@ -10,8 +10,8 @@ You could also ask the time complixety , memory , I/O of the algorithm or ask it
 It has a drag and drop blocks where children can build code in Javascript by draging and droping te blocks!
 It also has a ready to use code of common algorithms and in 3 language with a card interface
 
-Description:We have Developed a Gen AI agent capable of converting prompted algorithms into compiled code. The tool should take user-defined algorithms and generate executable code in the desired
-programming language.
+Description:We have Developed a Gen AI agent capable of converting prompted algorithms into compiled code. 
+The tool should take user-defined algorithms and generate executable code in the desired programming language.
 
 We have added a simple user interface with background video 
 
