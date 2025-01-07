@@ -1,5 +1,7 @@
 AlgoCodeAI
 
+Download,Unzip this folder and start using the webapp: 
+
 
 Theme 4: Algorithm to Code Generation with Gen AI Agent
 The working of the web app can be seen as a video here (https://drive.google.com/file/d/1Aess_ttNFUrjBJSHWzgruJ7Ro6Apayoo/view?usp=sharing)
@@ -40,7 +42,7 @@ Css
 Javascript
 
 Steps to run this webapp:
-Clone the repository:
+Unzip the folder and start using it
 
 Install dependencies
 
